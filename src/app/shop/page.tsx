@@ -27,7 +27,7 @@ import instagram from "/public/ant-design_instagram-outlined.png";
 import twitter from "/public/ant-design_twitter-outlined.png";
 
 import CardText from "../components/cards-text";
-export default function () {
+export default function ShopPage() {
   return (
     <div>
       <GreenHeader />
